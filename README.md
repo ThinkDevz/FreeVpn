@@ -3,7 +3,7 @@
 ----
 ## Introduction
 
-Android application which lets you easily to connect to a number of free VPN server around the world with just a single tap!
+Android application which lets you easily to connect to a number of Free VPN server around the world with just a single tap!
 
 The list of servers the application connect is http://www.vpngate.net/
 **VPN Gate Academic Experiment Project** is an online service as an academic research at Graduate School of University of Tsukuba, Japan. The purpose of this research is to expand the knowledge of "Global Distributed Public VPN Relay Servers".
@@ -11,13 +11,13 @@ The list of servers the application connect is http://www.vpngate.net/
 ----
 ###Demo
 
-![Easy VPN Free](https://github.com/ThinkDevz/FreeVpn)
+![VPN Free](https://github.com/ThinkDevz/FreeVpn/freevpn.png)
 
 
 ----
 ## Installation
 The app is available оn Goole's Play Market
-[![Easy VPN Free Play Market](https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.thinkdevs.vpnfree)
+[![VPN Free Play Market](https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=com.thinkdevs.vpnfree)
 
 
  BUT If it is not available in your country (somehow...) you also can always find compiled binaries here https://github.com/ThinkDevz/FreeVpn
