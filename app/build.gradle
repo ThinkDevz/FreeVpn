@@ -1,0 +1,88 @@
+buildscript {
+    repositories {
+        maven { url 'https://maven.fabric.io/public' }
+    }
+
+    dependencies {
+        classpath 'io.fabric.tools:gradle:1.+'
+    }
+}
+apply plugin: 'com.android.application'
+apply plugin: 'io.fabric'
+
+repositories {
+    maven { url 'https://maven.fabric.io/public' }
+}
+
+
+android {
+    compileSdkVersion 24
+    buildToolsVersion "24.0.2"
+
+    defaultConfig {
+        applicationId "com.thinkdevs.vpnfree"
+        minSdkVersion 17
+        targetSdkVersion 24
+        versionCode 1
+        versionName "0.1"
+        setProperty("archivesBaseName", "vpnfree-$versionName-$versionCode")
+    }
+
+    lintOptions {
+        disable 'MissingTranslation'
+    }
+
+    productFlavors {
+        free {
+            applicationId "com.thinkdevs.vpnfree"
+            resValue "string", "app_name", "Free VPN"
+            resValue "string", "notification_title", "Free VPN - %s"
+        }
+
+        pro {
+            applicationId "com.thinkdevs.easyvpn"
+            resValue "string", "app_name", "Easy VPN"
+            resValue "string", "notification_title", "Easy VPN - %s"
+        }
+
+        underground {
+            applicationId "com.thinkdevs.vpnfreeunderground"
+            resValue "string", "app_name", "Easy VPN"
+            resValue "string", "notification_title", "Easy VPN - %s"
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            shrinkResources false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+//            ndk {
+//              //abiFilters "armeabi" "x86"
+//                abiFilters "armeabi-v7a", "armeabi", "arm64-v8a" // includes ARM SO files only, so no x86 SO file
+//            }
+        }
+    }
+}
+
+
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile 'com.android.support:appcompat-v7:24.2.1'
+    compile 'com.android.support:support-v4:24.2.1'
+    compile 'com.android.support:design:24.2.1'
+    compile 'com.android.support:recyclerview-v7:24.2.1'
+    compile 'com.android.support:cardview-v7:24.2.1'
+
+    compile 'com.daimajia.numberprogressbar:library:1.2@aar'
+    compile 'com.amitshekhar.android:android-networking:0.2.0'
+    compile 'com.google.code.gson:gson:2.7'
+    compile 'org.mapsforge:mapsforge-map-android:0.6.1'
+    compile 'com.caverock:androidsvg:1.2.2-beta-1'
+    testCompile 'junit:junit:4.12'
+    compile('com.crashlytics.sdk.android:crashlytics:2.6.5@aar') {
+        transitive = true
+    }
+    compile 'com.google.android.gms:play-services-analytics:10.0.1'
+}

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "442934844179",
+    "firebase_url": "https://freeopen-fcd11.firebaseio.com",
+    "project_id": "freeopen-fcd11",
+    "storage_bucket": "freeopen-fcd11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442934844179:android:23a2c2c21a50cc05",
+        "android_client_info": {
+          "package_name": "com.thinkdevs.vpnfree"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442934844179-h6fgv54ub90e7d3gafea12a31h26lm1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhbBjdzB4bFrSkBpWIbOTosbIulepuYdQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

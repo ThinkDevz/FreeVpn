@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.3.14/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a319fd4d548ba4cc9511561d37109ba922bfbf6a">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/pre-dexed/free/debug/io.fabric.sdk.android-fabric-1.3.14_7d9ec03dfdd29b6a59ce48b2631c8834ebba70c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/project/android/FreeOpen/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/FreeOpen/app/build/intermediates/pre-dexed/free/debug/com.google.android.gms-play-services-tasks-10.0.1_136f187e2fc09e83fe307e6cafc0ec50abbd3840.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/pre-dexed/free/debug/com.android.support-support-vector-drawable-24.2.1_213a002905ad1f4ac3ee54317ac2b23f633354e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/project/android/FreeOpen/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/FreeOpen/app/build/intermediates/pre-dexed/free/debug/com.google.android.gms-play-services-base-10.0.1_58f7e81838473ef3cca00daa8536f370f444c6ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/beta/1.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b42cf2134829f715edfa2adaf0ee246631322dba">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/pre-dexed/free/debug/com.crashlytics.sdk.android-beta-1.2.2_67b4f12438d582cd9d996e25d0211151ff3fccff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/pre-dexed/free/debug/com.android.support-recyclerview-v7-24.2.1_afd354896e9c8d7036758cb68f730451a5783f04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/project/android/FreeOpen/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/beta/1.2.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b42cf2134829f715edfa2adaf0ee246631322dba">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/FreeOpen/app/build/intermediates/pre-dexed/free/debug/com.crashlytics.sdk.android-beta-1.2.2_590ae1ec4079d09279c449e812a173467afb14c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/exploded-aar/com.daimajia.numberprogressbar/library/1.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4196173ec5799ff211761f90874802789c6cc4ac">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/pre-dexed/free/debug/com.daimajia.numberprogressbar-library-1.2_6fc5d28fd01ccc4620c42799044d7d140b5c8648.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/.gradle/caches/modules-2/files-2.1/com.caverock/androidsvg/1.2.2-beta-1/d98fcdbfa06bd8fcca1dab708c0468b9821f3ed9/androidsvg-1.2.2-beta-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d98fcdbfa06bd8fcca1dab708c0468b9821f3ed9">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/pre-dexed/free/debug/androidsvg-1.2.2-beta-1_c7b8b4dbd91bb84762ca5e4291750e3965df3f00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/project/android/FreeOpen/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/FreeOpen/app/build/intermediates/pre-dexed/free/debug/com.android.support-appcompat-v7-24.2.1_4223246963e8ec887d8d902858dd513e9fc6d7cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/project/android/FreeOpen/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/FreeOpen/app/build/intermediates/pre-dexed/free/debug/com.google.android.gms-play-services-basement-10.0.1_9554ed3adf942d69ae4757e64cf4c009ee9dc59d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/project/android/FreeOpen/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/FreeOpen/app/build/intermediates/pre-dexed/free/debug/com.android.support-recyclerview-v7-24.2.1_bc394d47605a99aeddd6ec92ec64faf012cd937f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics-core/2.3.14/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7ff77725723167163d69439e3fd077bd0899babf">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/pre-dexed/free/debug/com.crashlytics.sdk.android-crashlytics-core-2.3.14_b03b949fc88775a7ad31837d057fc7188b7ea2a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/.gradle/caches/modules-2/files-2.1/org.mapsforge/mapsforge-core/0.6.1/3085141fe6ec137fd7840720231cf841a04fcbef/mapsforge-core-0.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3085141fe6ec137fd7840720231cf841a04fcbef">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/pre-dexed/free/debug/mapsforge-core-0.6.1_4f15c6b0791858b44f296816a5947c04190529e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics/2.6.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="02cc9f2e5899415add52bc716602b6b38e7eeb99">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/pre-dexed/free/debug/com.crashlytics.sdk.android-crashlytics-2.6.5_a0b12ad59b3efefd1e8871171cac0908cac52e37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/pre-dexed/free/debug/okhttp-3.2.0_a086b26ca0de992b618c49d2d2d27d3061812427.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/project/android/FreeOpen/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/FreeOpen/app/build/intermediates/pre-dexed/free/debug/com.android.support-support-v4-24.2.1_a081dc7fd116207ecc8ce3d70df6973df8e3de5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/project/android/FreeOpen/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/FreeOpen/app/build/intermediates/pre-dexed/free/debug/com.android.support-support-core-utils-24.2.1_4956f0aa53ef9745f3e219457d8de83c9cba7a56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/project/android/FreeOpen/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/FreeOpen/app/build/intermediates/pre-dexed/free/debug/com.android.support-design-24.2.1_fdfd9ff23b05e083666c9b6c4cda0a9b40fea57e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/pre-dexed/free/debug/internal_impl-24.2.1_3262f7b5d75fb50223330b083c198806d53da234.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/pre-dexed/free/debug/com.google.android.gms-play-services-analytics-impl-10.0.1_7173a1bfb0a003d0afcb45705f045ae45139cf68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/pre-dexed/free/debug/com.android.support-cardview-v7-24.2.1_f366c4a9db9ee216bee3cc5617d1d66ed1ded08d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/pre-dexed/free/debug/com.android.support-design-24.2.1_754cca8cbe07ddd2a1dc7a33da54f053a0aaacf1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/project/android/FreeOpen/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/FreeOpen/app/build/intermediates/pre-dexed/free/debug/internal_impl-24.2.1_6d64ad4238976717dcf23fa14ac0e819dd9ab499.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/pre-dexed/free/debug/internal_impl-24.2.1_4248619dd6c47abd0a27dfa0857d57cffa5bbfe9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/pre-dexed/free/debug/com.google.android.gms-play-services-basement-10.0.1_1bfd480e879acda396976f77bdeb730af26d40f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/project/android/FreeOpen/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/FreeOpen/app/build/intermediates/pre-dexed/free/debug/com.android.support-cardview-v7-24.2.1_33e0aa2566b3b2a937d045a04205d250a2ae1db4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/pre-dexed/free/debug/internal_impl-24.2.1_991e8f7e904400ff1f91a2b031ac1960075ecd8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/pre-dexed/free/debug/com.android.support-support-v4-24.2.1_f33e305518d3807bec7ccd6cdee0b499519dccd7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/project/android/FreeOpen/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics/2.6.5/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="02cc9f2e5899415add52bc716602b6b38e7eeb99">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/FreeOpen/app/build/intermediates/pre-dexed/free/debug/com.crashlytics.sdk.android-crashlytics-2.6.5_b19f5bf6cbe32aef514ef23c5aea0ff1e8b30508.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/.gradle/caches/modules-2/files-2.1/net.sf.kxml/kxml2/2.3.0/ccbc77a5fd907ef863c29f3596c6f54ffa4e9442/kxml2-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ccbc77a5fd907ef863c29f3596c6f54ffa4e9442">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/pre-dexed/free/debug/kxml2-2.3.0_6894735843778c5d4b7e5483054387d93c6ffa63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/pre-dexed/free/debug/com.android.support-support-core-utils-24.2.1_8768196bf70f5d1f06d5d62193550d210d183f99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/project/android/FreeOpen/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/FreeOpen/app/build/intermediates/pre-dexed/free/debug/com.android.support-support-compat-24.2.1_41d31e473f524afd850ea5d9583b246976535d1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/pre-dexed/free/debug/com.android.support-support-compat-24.2.1_62f951b4e0636871546105d138a987ac1f8a74dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/project/android/FreeOpen/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/FreeOpen/app/build/intermediates/pre-dexed/free/debug/com.google.android.gms-play-services-analytics-impl-10.0.1_2804ddca959718fccfb5291b374d32b79b06b5cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/pre-dexed/free/debug/com.android.support-appcompat-v7-24.2.1_be92dabf79eeb6101fd96934effd606b00b3dc93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/project/android/FreeOpen/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/FreeOpen/app/build/intermediates/pre-dexed/free/debug/com.android.support-support-core-ui-24.2.1_7cb2e450aaed27383a538712964a071645386309.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/pre-dexed/free/debug/com.android.support-animated-vector-drawable-24.2.1_e8d87853066b6dca7c7e598afdf87bf54c5f78e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/pre-dexed/free/debug/com.android.support-support-media-compat-24.2.1_1cc725f27c6784b2171c61f013c4e51d9ae904e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/answers/1.3.10/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ed6b455e3dd7bbf1ff31f8df0b41e2f0d87f3ace">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/pre-dexed/free/debug/com.crashlytics.sdk.android-answers-1.3.10_2180a3a504778b8fedfd8b24a6b85ede5813b9cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/project/android/FreeOpen/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/FreeOpen/app/build/intermediates/pre-dexed/free/debug/com.android.support-support-fragment-24.2.1_2811f93da20451fe8a493505e6a2fd44d60d217f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/project/android/FreeOpen/app/build/intermediates/exploded-aar/com.daimajia.numberprogressbar/library/1.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4196173ec5799ff211761f90874802789c6cc4ac">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/FreeOpen/app/build/intermediates/pre-dexed/free/debug/com.daimajia.numberprogressbar-library-1.2_79098f03db8ce5d7aed6a52b849d793e61029dde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/project/android/FreeOpen/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/FreeOpen/app/build/intermediates/pre-dexed/free/debug/internal_impl-24.2.1_7846ac68c456a2093a6803dd9f34f2ff3647a768.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/project/android/FreeOpen/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/FreeOpen/app/build/intermediates/pre-dexed/free/debug/internal_impl-24.2.1_a73454de834ee1323c84237dab5185db53c5f747.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/pre-dexed/free/debug/support-annotations-24.2.1_785a24371e5e5d2f24a6c9e93ded8b888ade42a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/project/android/FreeOpen/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/FreeOpen/app/build/intermediates/pre-dexed/free/debug/com.google.android.gms-play-services-analytics-10.0.1_9bd166db39f031418d53187817b2a3a722d29b75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/pre-dexed/free/debug/com.android.support-support-core-ui-24.2.1_c08ab07a82f4b22f17329b26fb0560234d8e6626.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/.gradle/caches/modules-2/files-2.1/org.mapsforge/mapsforge-map-android/0.6.1/6a545b760bc8e70bd23a3282d137a110cf096df8/mapsforge-map-android-0.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6a545b760bc8e70bd23a3282d137a110cf096df8">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/pre-dexed/free/debug/mapsforge-map-android-0.6.1_1568717e56a3d9d21e6e9abde3d34c37a71ea63e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/project/android/FreeOpen/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/FreeOpen/app/build/intermediates/pre-dexed/free/debug/com.android.support-support-vector-drawable-24.2.1_d02733c9342dd79f803bd31b64d389c68db6a27e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/project/android/FreeOpen/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/FreeOpen/app/build/intermediates/pre-dexed/free/debug/com.android.support-animated-vector-drawable-24.2.1_5484c8b270758706ea259ed49fee46244142c886.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/pre-dexed/free/debug/gson-2.7_4b88c8b398e0c4526911c0fa4b647a87451feb0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/project/android/FreeOpen/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/answers/1.3.10/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ed6b455e3dd7bbf1ff31f8df0b41e2f0d87f3ace">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/FreeOpen/app/build/intermediates/pre-dexed/free/debug/com.crashlytics.sdk.android-answers-1.3.10_25526ba80b3e48764f4b705ed7858c0592be2ec8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/pre-dexed/free/debug/com.android.support-support-fragment-24.2.1_cd4c14130624c0016d77385098218b6a970ec132.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/project/android/FreeOpen/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/FreeOpen/app/build/intermediates/pre-dexed/free/debug/internal_impl-24.2.1_fc3a2eb716273b0344f4a5a2a2ea2ed84f55d868.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/.gradle/caches/modules-2/files-2.1/org.mapsforge/mapsforge-map/0.6.1/1140a4f09c9cc9b4b848430ea44739cddb823ba9/mapsforge-map-0.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1140a4f09c9cc9b4b848430ea44739cddb823ba9">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/pre-dexed/free/debug/mapsforge-map-0.6.1_cb3c6efcb0c051a303ab38fb3779bf1cf2fa98e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/project/android/FreeOpen/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/FreeOpen/app/build/intermediates/pre-dexed/free/debug/com.android.support-support-media-compat-24.2.1_daa2adf539b03d3b2ed15b2bed71b9c5d59aa44a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/project/android/FreeOpen/app/build/intermediates/exploded-aar/com.amitshekhar.android/android-networking/0.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f85d941ba578cd5df97f95259b2252d3e8967739">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/FreeOpen/app/build/intermediates/pre-dexed/free/debug/com.amitshekhar.android-android-networking-0.2.0_a026b2dc4f34540882954d89fe406e46265ec5e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/pre-dexed/free/debug/com.google.android.gms-play-services-tasks-10.0.1_a73d8f8743416fac61996a0d5ac5cd1cff990cc7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/pre-dexed/free/debug/internal_impl-24.2.1_9698e8cfaefc4d0a26c72dad860bafcb10840446.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/pre-dexed/free/debug/com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_6183066e74e9df93f6738da813730d879c0a7592.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/project/android/FreeOpen/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/FreeOpen/app/build/intermediates/pre-dexed/free/debug/com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_9fd9fb52da2c395d95ba091e80679effea6b47c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/.gradle/caches/modules-2/files-2.1/org.mapsforge/mapsforge-map-reader/0.6.1/b2ae70c6d05bb4b94991598a132e98d7366ff26b/mapsforge-map-reader-0.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b2ae70c6d05bb4b94991598a132e98d7366ff26b">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/pre-dexed/free/debug/mapsforge-map-reader-0.6.1_b00b1de6e9eedcf726483d8e57133315673316e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/project/android/FreeOpen/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/FreeOpen/app/build/intermediates/pre-dexed/free/debug/internal_impl-24.2.1_1b5bdba2821daec4bcd22d52c426faea8dec6d0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/exploded-aar/com.amitshekhar.android/android-networking/0.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f85d941ba578cd5df97f95259b2252d3e8967739">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/pre-dexed/free/debug/com.amitshekhar.android-android-networking-0.2.0_f03072d530dc7e1ceb2c8dd72c80171b21c43a99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/project/android/FreeOpen/app/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.3.14/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a319fd4d548ba4cc9511561d37109ba922bfbf6a">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/FreeOpen/app/build/intermediates/pre-dexed/free/debug/io.fabric.sdk.android-fabric-1.3.14_21dd7ea64845d1620de04e4ad85d06faa146ceeb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/pre-dexed/free/debug/internal_impl-24.2.1_e528d0cbec8b491b71b5e715c4e31b2ad8d9be00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/pre-dexed/free/debug/com.google.android.gms-play-services-base-10.0.1_3b7ceed9af543eb29e3a129f4bc87e835d0d067f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/project/android/FreeOpen/app/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics-core/2.3.14/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7ff77725723167163d69439e3fd077bd0899babf">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/FreeOpen/app/build/intermediates/pre-dexed/free/debug/com.crashlytics.sdk.android-crashlytics-core-2.3.14_7a8743574575f047d802e47bd563cdff36fa989b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/pre-dexed/free/debug/com.google.android.gms-play-services-analytics-10.0.1_d4081b7507c527d04205a785761e27ec9f3ea963.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/kevinjanvier/Documents/project/android/EasyVPN-Free/Android-code/app/build/intermediates/pre-dexed/free/debug/okio-1.6.0_7b9e95fbef72694d014bb9ce3f2c376c904f37e1.jar" />
+    </item>
+
+</items>
