@@ -11,7 +11,7 @@ The list of servers the application connect is http://www.vpngate.net/
 ----
 ###Demo
 
-![VPN Free](https://github.com/ThinkDevz/FreeVpn/freevpn.png)
+![VPN Free](https://github.com/ThinkDevz/FreeVpn/blob/master/freevpn.png)
 
 
 ----
