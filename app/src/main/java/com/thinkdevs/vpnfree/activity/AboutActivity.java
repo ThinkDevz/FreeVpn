@@ -6,6 +6,7 @@ import android.content.pm.PackageManager;
 import android.os.Bundle;
 import android.widget.TextView;
 
+import com.google.android.gms.ads.MobileAds;
 import com.thinkdevs.vpnfree.R;
 
 public class AboutActivity extends BaseActivity {
@@ -14,6 +15,8 @@ public class AboutActivity extends BaseActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_about);
+
+        MobileAds.initialize(this, "ca-app-pub-8831705983843599~2857330927");
         try {
             PackageInfo pinfo = getPackageManager().getPackageInfo(getPackageName(), 0);
             int versionNumber = pinfo.versionCode;

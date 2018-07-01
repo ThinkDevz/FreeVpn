@@ -47,10 +47,7 @@
                 <action android:name="android.net.VpnService" />
             </intent-filter>
         </service>
-
-        <meta-data
-            android:name="io.fabric.ApiKey"
-            android:value="f3381de560e52052038ffb42a852d4b4df492896" />
+            <!--android:value="f3381de560e52052038ffb42a852d4b4df492896" />-->
 
         <!--
       Optionally, register AnalyticsReceiver and AnalyticsService to support background
@@ -84,6 +81,9 @@
         <service android:name="com.google.android.gms.analytics.CampaignTrackingService" />
 
         <activity android:name="com.thinkdevs.vpnfree.activity.BookmarkServerListActivity"></activity>
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="74790937eda2a7a79d0ff4b686a5c61d4095b0e1" />
     </application>
 
 </manifest>

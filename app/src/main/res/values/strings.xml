@@ -66,7 +66,7 @@
     <string name="traffic_in">Downloaded: %1$s</string>
     <string name="traffic_out">Uploaded: %1$s</string>
     <string name="traffic_totally"><b>Totally through the application</b></string>
-    <string name="rating_title"><b>Thanks for using Open VPN Free!</b></string>
+    <string name="rating_title"><b>Thanks for using Free VPN!</b></string>
     <string name="rating_sure">Sure</string>
     <string name="rating_not">Not really</string>
     <string name="rating_text">We are trying to make the app better!
@@ -74,8 +74,8 @@
         \nby rating us?
     </string>
     <string name="share_text">
-        Open VPN Free! Open source, Unlimited and 100% Free!
-        \nMore than 22 countries to connect and unblock all blocked websites.
+        Free VPN ! Open source, Unlimited and 100% Free!
+        \nMore than 50 countries to connect and unblock all blocked websites, social media taxes.
         \n\nhttps://play.google.com/store/apps/details?id=com.thinkdevs.vpnfree
     </string>
     <string name="bookmarks">Bookmarks</string>

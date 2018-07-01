@@ -24,7 +24,8 @@
         android:id="@+id/actionGetMoreServers"
         android:orderInCategory="103"
         android:title="@string/more_servers"
-        app:showAsAction="never"/>
+        app:showAsAction="never"
+        android:visible="false"/>
     <item
         android:id="@+id/actionAbout"
         android:orderInCategory="104"

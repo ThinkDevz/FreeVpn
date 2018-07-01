@@ -27,6 +27,8 @@ import com.crashlytics.android.answers.Answers;
 
 import com.crashlytics.android.answers.CustomEvent;
 
+import com.google.android.gms.ads.AdSize;
+import com.google.android.gms.ads.AdView;
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
 import com.thinkdevs.vpnfree.BuildConfig;
@@ -82,6 +84,11 @@ public class HomeActivity extends BaseActivity {
 
         homeContextRL = (RelativeLayout) findViewById(R.id.homeContextRL);
         countryList = dbHelper.getUniqueCountries();
+
+        AdView adView = new AdView(this);
+        adView.setAdSize(AdSize.BANNER);
+        adView.setAdUnitId("ca-app-pub-3940256099942544/6300978111");
+// TODO: Add adView to your view hierarchy.
 
         long totalServ = dbHelper.getCount();
         if (!BuildConfig.DEBUG)

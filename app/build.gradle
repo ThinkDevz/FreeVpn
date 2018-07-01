@@ -26,7 +26,38 @@ android {
         versionCode 1
         versionName "0.1"
         setProperty("archivesBaseName", "vpnfree-$versionName-$versionCode")
+        resConfig("en")
+        vectorDrawables.useSupportLibrary = true
     }
+
+    /**
+     * Split an Apk to Reduce the App size
+     */
+
+    splits {
+        abi {
+            enable true
+            reset()
+            include 'armeabi-v7a', 'arm64-v8a', 'mips', 'x86', 'x86_64'
+//            include 'x86', 'x86_64', 'armeabi-v7a', 'arm64-v8a'
+        }
+    }
+
+//    map for the version code
+    project.ext.versionCodes = ['armeabi': 1, 'armeabi-v7a': 2, 'arm64-v8a': 3, 'mips': 5, 'mips64': 6, 'x86': 8, 'x86_64': 9]
+
+    android.applicationVariants.all { variant ->
+        // assign different version code for each output
+        // add 3 .. will increment the int versionCode everytime we deploy
+        variant.outputs.each { output ->
+            output.versionCodeOverride =
+                    project.ext.versionCodes.get(output.getFilter(com.android.build.OutputFile.ABI), 0) * 1 + android.defaultConfig.versionCode
+        }
+    }
+    configurations.all {
+        resolutionStrategy.force 'com.android.support:support-annotations:23.1.0'
+    }
+
 
     lintOptions {
         disable 'MissingTranslation'
@@ -41,14 +72,14 @@ android {
 
         pro {
             applicationId "com.thinkdevs.easyvpn"
-            resValue "string", "app_name", "Easy VPN"
+            resValue "string", "app_name", "Free VPN"
             resValue "string", "notification_title", "Easy VPN - %s"
         }
 
         underground {
             applicationId "com.thinkdevs.vpnfreeunderground"
             resValue "string", "app_name", "Easy VPN"
-            resValue "string", "notification_title", "Easy VPN - %s"
+            resValue "string", "notification_title", "Free VPN - %s"
         }
     }
 
@@ -58,7 +89,7 @@ android {
             shrinkResources false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
 //            ndk {
-//              //abiFilters "armeabi" "x86"
+//              abiFilters "armeabi" "x86"
 //                abiFilters "armeabi-v7a", "armeabi", "arm64-v8a" // includes ARM SO files only, so no x86 SO file
 //            }
         }
@@ -80,9 +111,13 @@ dependencies {
     compile 'com.google.code.gson:gson:2.7'
     compile 'org.mapsforge:mapsforge-map-android:0.6.1'
     compile 'com.caverock:androidsvg:1.2.2-beta-1'
+
     testCompile 'junit:junit:4.12'
     compile('com.crashlytics.sdk.android:crashlytics:2.6.5@aar') {
         transitive = true
     }
-    compile 'com.google.android.gms:play-services-analytics:10.0.1'
+    compile 'com.google.android.gms:play-services-analytics:15.0.0'
+    compile 'com.google.android.gms:play-services-ads:15.0.0'
 }
+
+apply plugin: 'com.google.gms.google-services'

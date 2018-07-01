@@ -26,25 +26,27 @@
         <Button
             android:id="@+id/homeBtnRandomConnection"
             android:text="@string/random_connection"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            style="@style/buttons"
+            android:layout_width="180dp"
+            android:layout_height="40dp"
             android:minHeight="40dp"
             android:onClick="homeOnClick"
             android:padding="5dp"
             android:minWidth="180dp"
-            android:layout_marginBottom="10dp"/>
+            android:layout_marginBottom="10dp"
+            android:textColor="@android:color/white"
+            android:background="@drawable/btn_bg"/>
 
         <Button
             android:id="@+id/homeBtnChooseCountry"
             android:text="@string/home_btn_choose_country"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            style="@style/buttons"
+            android:layout_width="180dp"
+            android:layout_height="40dp"
             android:minHeight="40dp"
             android:minWidth="180dp"
             android:onClick="homeOnClick"
-            android:padding="5dp" />
+            android:padding="5dp"
+            android:textColor="@android:color/white"
+            android:background="@drawable/btn_bg"/>
         <TextView
             android:id="@+id/homeTotalServers"
             android:textColor="@color/totalServers"
@@ -54,6 +56,17 @@
             android:gravity="center"/>
 
     </LinearLayout>
+
+    <com.google.android.gms.ads.AdView
+        xmlns:ads="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/adView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        ads:adSize="BANNER"
+        ads:adUnitId="ca-app-pub-3940256099942544/6300978111">
+    </com.google.android.gms.ads.AdView>
 
 </RelativeLayout>
 

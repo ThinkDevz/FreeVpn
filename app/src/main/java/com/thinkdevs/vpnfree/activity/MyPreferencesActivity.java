@@ -8,6 +8,8 @@ import android.preference.PreferenceFragment;
 import android.support.v7.widget.Toolbar;
 import android.view.View;
 
+import com.google.android.gms.ads.AdSize;
+import com.google.android.gms.ads.AdView;
 import com.google.android.gms.analytics.HitBuilders;
 import com.google.android.gms.analytics.Tracker;
 import com.thinkdevs.vpnfree.App;
@@ -44,6 +46,11 @@ public class MyPreferencesActivity extends PreferenceActivity {
         getFragmentManager().beginTransaction().replace(R.id.preferenceContent, new MyPreferenceFragment()).commit();
         App application = (App) getApplication();
         mTracker = application.getDefaultTracker();
+
+        AdView adView = new AdView(this);
+        adView.setAdSize(AdSize.BANNER);
+        adView.setAdUnitId("ca-app-pub-8831705983843599/3875324154");
+// TODO: Add adView to your view hierarchy.
     }
 
     public static class MyPreferenceFragment extends PreferenceFragment

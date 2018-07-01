@@ -119,7 +119,6 @@ public abstract class BaseActivity extends AppCompatActivity {
         }
 
 
-
         dbHelper = new DBHelper(this);
 
         DisplayMetrics dm = new DisplayMetrics();
